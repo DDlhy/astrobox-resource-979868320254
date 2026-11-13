@@ -1,0 +1,67 @@
+{
+  "item": {
+    "id": "979868320254",
+    "restype": "watchface",
+    "name": "WavAudio",
+    "description": "使用手环线性马达播放音乐，需要下载DPDeck导入音乐。",
+    "preview": [
+      "media/无标题.png",
+      "media/334xv3-tuya.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/334xv3-tuya.png",
+    "author": [
+      {
+        "name": "lhy",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "DPDeck",
+      "url": "https://kami.bandplanet.xyz/",
+      "icon": "download-simple"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.1",
+      "file_name": "downloads/WavAudio-Band10-CN3.1.28-v2-recordings-installfix1 (1).bin",
+      "versionCode": 65537
+    },
+    "xmb10nfc": {
+      "version": "1.0.1",
+      "file_name": "downloads/WavAudio-Band10-CN3.1.28-v2-recordings-installfix1 (1).bin",
+      "versionCode": 65537
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/10p.face",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.4.0",
+      "file_name": "downloads/11.bin",
+      "versionCode": 66560
+    },
+    "xmb11nfc": {
+      "version": "1.4.0",
+      "file_name": "downloads/11.bin",
+      "versionCode": 66560
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/9.bin",
+      "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/9p.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
