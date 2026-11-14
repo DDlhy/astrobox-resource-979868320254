@@ -5,8 +5,9 @@
     "name": "WavAudio",
     "description": "使用手环线性马达播放音乐，需要下载DPDeck导入音乐。",
     "preview": [
-      "media/下载.jpg",
-      "media/无标题.png"
+      "media/download-tuya.png",
+      "media/无标题.png",
+      "media/omww6o.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/download.jpg",
