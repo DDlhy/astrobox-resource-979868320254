@@ -3,11 +3,11 @@
     "id": "979868320254",
     "restype": "watchface",
     "name": "WavAudio",
-    "description": "使用手环线性马达播放音乐，需要下载DPDeck导入音乐。",
+    "description": "使用手环线性马达音质清晰的播放音乐的原生应用，需要下载DPDeck导入音乐，也支持手环录音播放，手环自震动发声，不需要连接手机和耳机进行离线震动播放，音质清晰与正常扬声器可比。",
     "preview": [
-      "media/download-tuya.png",
-      "media/无标题.png",
-      "media/omww6o.png"
+      "media/wav4-tuya-tuya.png",
+      "media/wav3-tuya-tuya.png",
+      "media/wav2-tuya.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/download.jpg",
